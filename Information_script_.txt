@@ -1,0 +1,7 @@
+# Daibetes  - basicall about using this dataset - we are make logical model to person have diabetes or not
+# Daibetes  - take from kaggle.com  
+# Daibetes preprossing stages
+* Heatmap used for purpose to check which column contributing or correlation relationship they between to diabetes
+# Next stage about is check out outlier is their or not to specific column which we choose - [ stablize_gluscobin , gluscobin_hemoglobin , time_digestion are highly correlating with diabetes column  and other column are consider for KPI]  - The purpose for other column not included becuase if use that it give bad result - bp can taken
+
+
